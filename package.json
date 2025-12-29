@@ -2,6 +2,7 @@
   "name": "testing-script",
   "type": "module",
   "dependencies": {
+    "dotenv": "^17.2.3",
     "firebase": "^11.0.0"
   }
 }

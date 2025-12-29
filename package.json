@@ -1,0 +1,7 @@
+{
+  "name": "testing-script",
+  "type": "module",
+  "dependencies": {
+    "firebase": "^11.0.0"
+  }
+}
